@@ -14,9 +14,9 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>May 2025</p>
-      <p>Prof. Naoya Aizawa</p>
-      <p>Osaka University</p>
+      May 2025<br>
+      Prof. Naoya Aizawa<br>
+      Osaka University
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
