@@ -466,6 +466,16 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Research",handler: () => {
               window.location.href = "/research/3_project/";
+            },},{id: "research-project-4",
+          title: 'project 4',
+          description: "another without an image",
+          section: "Research",handler: () => {
+              window.location.href = "/research/4_project/";
+            },},{id: "research-project-5",
+          title: 'project 5',
+          description: "a project with a background image",
+          section: "Research",handler: () => {
+              window.location.href = "/research/5_project/";
             },},{
         id: 'social-email',
         title: 'email',
