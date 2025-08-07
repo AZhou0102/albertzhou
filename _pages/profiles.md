@@ -30,9 +30,9 @@ profiles:
     content: diamond_precipitation.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>May 2024</p>
-      <p>Dr. Mungo Frost</p>
-      <p>Stanford Linear Accelerator Center, High Energy Density Sciences</p>
+      May 2024<br>
+      Dr. Mungo Frost<br>
+      Stanford Linear Accelerator Center, High Energy Density Sciences
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
