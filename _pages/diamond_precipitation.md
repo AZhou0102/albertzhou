@@ -1,10 +1,12 @@
-### Diamond Rain on Exoplanets
+### Diamond Precipitation Dynamics on Exoplanets
 
-I spent a summer researching diamond precipitation dynamics, aka *diamond rain*, in exoplanet settings by modeling extreme-pressure equations of state.
-  This was done via recursive computational methods, in which exoplanetary composition was used to determine internal pressure-density profiles. 
-  My algorithm was based on a numerical procedure, bouncing back and forth between the Adams-Williamson equation and various EoS's (e.g. Vinet, Birch-Murnaghan, Holzapfel).
-  Using Monte Carlo simulations, we were able to profile exoplanets that are likely candidates for diamond precipitation.
-  In addition to sounding cool, studying diamond rain helps us understand high density physics with significant applications spanning nuclear fusion, planetary formation, and astrobiology.
+On some planets, like Jupiter, it literally rains diamonds.
+  I spent a summer researching this phenomenon in exoplanetary contexts by modeling high-pressure equations of state (EoS).
+  Using recursive computational methods, I derived internal pressure–density profiles from planetary compositions.
+  My algorithm implemented a numerical procedure that iteratively solved the Adams–Williamson equation alongside several EoS models 
+  Using Monte Carlo simulations, we identified classes of exoplanets that are likely candidates for diamond precipitation.
+  Beyond sounding cool, studying diamond rain provides insight into high-density physics, with applications spanning nuclear fusion, planetary formation, and astrobiology.
+  Check out our paper for more! [paper link](https://example.com)!
 
 Thank you to the Department of Energy for funding this project.
 
