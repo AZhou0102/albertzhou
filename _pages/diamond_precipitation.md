@@ -3,7 +3,7 @@
 On some planets, like Jupiter, it literally rains diamonds.
   I spent a summer researching this phenomenon in exoplanetary contexts by modeling high-pressure equations of state (EoS).
   Using recursive computational methods, I derived internal pressure–density profiles from planetary compositions.
-  My algorithm implemented a numerical procedure that iteratively solved the Adams–Williamson equation alongside several EoS models 
+  My algorithm implemented a numerical procedure that iteratively solved the Adams–Williamson equation alongside several EoS models. 
   Using Monte Carlo simulations, we identified classes of exoplanets that are likely candidates for diamond precipitation.
   Beyond sounding cool, studying diamond rain provides insight into high-density physics, with applications spanning nuclear fusion, planetary formation, and astrobiology.
   Check out our paper for more! [paper link](https://example.com)
