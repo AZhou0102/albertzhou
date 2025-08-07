@@ -8,7 +8,6 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
-<img src="/assets/img/12.jpg" width="300" alt="Test image">
 
 <!-- pages/research.md -->
 <div class="research">
