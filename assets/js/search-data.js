@@ -471,6 +471,16 @@ ninja.data = [{
           description: "another without an image",
           section: "Research",handler: () => {
               window.location.href = "/research/4_project/";
+            },},{id: "research-project-5",
+          title: 'project 5',
+          description: "a project with a background image",
+          section: "Research",handler: () => {
+              window.location.href = "/research/5_project/";
+            },},{id: "research-project-6",
+          title: 'project 6',
+          description: "a project with no image",
+          section: "Research",handler: () => {
+              window.location.href = "/research/6_project/";
             },},{
         id: 'social-email',
         title: 'email',
