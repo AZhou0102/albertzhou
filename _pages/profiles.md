@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /research/
+title: Research
+description: my research history
 nav: true
 nav_order: 7
 
@@ -14,15 +14,31 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>May 2025</p>
+      <p>Prof. Naoya Aizawa</p>
+      <p>Osaka University</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>August 2024</p>
+      <p>Prof. Jennet Dickinson</p>
+      <p>Cornell CLASSE</p>
+  - align: right
+    image: prof_pic.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>May 2024</p>
+      <p>Dr. Mungo Frost</p>
+      <p>Stanford Linear Accelerator Center</p>
+  - align: left
+    image: prof_pic.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>August 2022</p>
+      <p>Prof. Carl Franck</p>
+      <p>Cornell Lab of Atomic & Solid State Physics</p>
 ---
