@@ -24,15 +24,15 @@ profiles:
     more_info: >
       <p>August 2024</p>
       <p>Prof. Jennet Dickinson</p>
-      <p>Cornell CLASSE</p>
+      <p>Cornell University, CLASSE</p>
   - align: right
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: diamond_precipitation.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>May 2024</p>
       <p>Dr. Mungo Frost</p>
-      <p>Stanford Linear Accelerator Center</p>
+      <p>Stanford Linear Accelerator Center, High Energy Density Sciences</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
@@ -40,5 +40,5 @@ profiles:
     more_info: >
       <p>August 2022</p>
       <p>Prof. Carl Franck</p>
-      <p>Cornell Lab of Atomic & Solid State Physics</p>
+      <p>Cornell University, Lab of Atomic & Solid State Physics</p>
 ---
