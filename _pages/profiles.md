@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: singlet_triplet_inversion.png
     content: pire.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -18,7 +18,7 @@ profiles:
       Prof. Naoya Aizawa<br>
       Osaka University
   - align: left
-    image: prof_pic.jpg
+    image: pixel_detector.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -26,7 +26,7 @@ profiles:
       <p>Prof. Jennet Dickinson</p>
       <p>Cornell University, CLASSE</p>
   - align: right
-    image: prof_pic.jpg
+    image: diamond_rain.png
     content: diamond_precipitation.md
     image_circular: false # crops the image to make it circular
     more_info: >
